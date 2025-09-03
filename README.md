@@ -1,1 +1,1 @@
-![Alt text](./assets/bg-color.png)
+![Background Image](./src/assets/bg-color.png)
